@@ -1,4 +1,4 @@
-@media (max-width: 360px) {
+@media (max-width: 414px) {
   .wrapper {
     max-width: 1000px;
     margin: 0 auto;
@@ -99,6 +99,7 @@
     font-weight: bold;
     color: red;
     margin-bottom: -15px;
+    margin-top: -1px;
     line-height: 1.4;
   }
 

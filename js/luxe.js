@@ -10,10 +10,9 @@ function displayBlock() {
   const password = input__luxe.value;
   console.log(password);
   if (password == 102010) {
-    luxe__2.classList.add("block");
-    return;
+    luxe__2.click();
   } else if (password == 201020) {
-    luxe__3.classList.add("block");
+    luxe__3.click();
   } else {
     alert("Неправильный пароль");
   }
