@@ -27,16 +27,16 @@
   .ok {
     width: 15%;
     animation-name: ok;
-    animation-duration: 3s;
+    animation-duration: 5s;
     animation-iteration-count: infinite;
     animation-fill-mode: forwards;
   }
   @keyframes ok {
     0% {
-     opacity: 0;
+      width: 0%;
     }
     100% {
-     opacity: 1;
+      width: 15%;
     }
   }
   .tiktok {
@@ -47,14 +47,14 @@
     animation-duration: 5s;
     animation-iteration-count: infinite;
     animation-fill-mode: forwards;
-    animation-delay: 3s;
+    /* animation-delay: 3s; */
   }
   @keyframes tiktok {
     0% {
-     opacity: 0;
+      width: 0%;
     }
     100% {
-      opacity: 1;
+      width: 15%;
     }
   }
   .youtube {
@@ -83,7 +83,7 @@
     animation-duration: 5s;
     animation-iteration-count: infinite;
     animation-fill-mode: forwards;
-    animation-delay: 7s;
+    /* animation-delay: 7s; */
   }
   @keyframes telegram {
     0% {
