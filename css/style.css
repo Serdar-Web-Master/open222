@@ -170,8 +170,6 @@ h1 {
   color: #710cdf;
   line-height: 1.5;
   padding: 10px;
-  /* width: 200px;
-  height: 50px; */
 }
 .user-sale {
   display: block;
@@ -199,20 +197,9 @@ h1 {
   margin: 10px 75px 0px 62px;
   border-radius: 30px;
 }
-.use__4 {
+.use__4 ,.use__5 ,.luxe__2,.luxe__3 {
   display: none;
 }
-.use__5 {
-  display: none;
-}
-
-.luxe__2 {
-  display: none;
-}
-.luxe__3 {
-  display: none;
-}
-
 .block {
   display: block;
   margin-top: 20px;
