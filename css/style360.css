@@ -13,16 +13,14 @@
     padding-left: 10px;
     padding-right: 10px;
   }
-  
+
   .main {
     width: 100%;
     height: 400px;
     background: url("../img/open2.jpg") center/cover no-repeat;
     margin-bottom: 10px;
   }
-  /* .main__img-block {
-    width: 0px; 
-  } */
+
   .container {
     position: relative;
   }
@@ -104,11 +102,11 @@
     color: red;
     margin-bottom: 16px;
   }
-  
+
   .tarify {
     margin: 5px 20px 15px 20px;
   }
-  
+
   .tarif-item {
     display: flex;
     justify-content: space-between;
@@ -127,7 +125,7 @@
     padding: 10px 10px 10px 10px;
     overflow: hidden;
   }
-  
+
   .info-block {
     margin-top: 30px;
   }
@@ -146,19 +144,19 @@
     padding: 5px;
     color: #710cdf;
   }
-  .footer {
+  /* .footer {
     width: 100%;
     height: 60px;
     background-color: #9b9b9b;
-  }
+  } */
   .container {
     max-width: 80%;
     display: flex;
     align-items: center;
   }
-  
+
   /* user - HTML */
-  
+
   .logo {
     display: flex;
     align-items: center;
@@ -200,14 +198,13 @@
     margin: 10px 75px 0px 62px;
     border-radius: 30px;
   }
-  
-  
+
   .block {
     display: block;
     margin-top: 20px;
     background-color: aqua;
   }
-  
+
   .header {
     width: 100%;
     height: 64px;
