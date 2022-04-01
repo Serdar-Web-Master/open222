@@ -59,7 +59,7 @@
   }
   .youtube {
     position: absolute;
-    margin: 38px 10px 10px 215px;
+    margin: 38px 10px 10px 89%;
     width: 0px;
     animation-name: youtube;
     animation-duration: 5s;
@@ -77,7 +77,7 @@
   }
   .telegram {
     position: absolute;
-    margin: 300px 10px 10px 269px;
+    margin: 139px 10px 10px 200px;
     width: 0px;
     animation-name: telegram;
     animation-duration: 5s;
