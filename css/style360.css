@@ -76,7 +76,7 @@
   }
   .telegram {
     position: absolute;
-    margin: 487px 10px 10px 269px;
+    margin: 300px 10px 10px 269px;
     width: 0px;
     animation-name: telegram;
     animation-duration: 5s;
@@ -144,7 +144,7 @@
     padding: 5px;
     color: #710cdf;
   }
- 
+
   .container {
     max-width: 80%;
     display: flex;
@@ -166,7 +166,7 @@
     line-height: 1.5;
     padding: 10px;
   }
-  
+
   .sale-info input {
     display: block;
     border: 2px solid rgb(55, 0, 255);
