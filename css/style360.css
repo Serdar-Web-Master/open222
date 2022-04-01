@@ -42,12 +42,11 @@
   .tiktok {
     width: 15%;
     position: absolute;
-    margin: 150px 10px 10px -22px;
+    margin: 10% 10px 10px 0%;
     animation-name: tiktok;
     animation-duration: 5s;
     animation-iteration-count: infinite;
     animation-fill-mode: forwards;
-    /* animation-delay: 3s; */
   }
   @keyframes tiktok {
     0% {
@@ -59,13 +58,12 @@
   }
   .youtube {
     position: absolute;
-    margin: 38px 10px 10px 89%;
+    margin: 0% 10px 10px 89%;
     width: 0px;
     animation-name: youtube;
     animation-duration: 5s;
     animation-iteration-count: infinite;
     animation-fill-mode: forwards;
-    animation-delay: 5s;
   }
   @keyframes youtube {
     0% {
@@ -77,13 +75,12 @@
   }
   .telegram {
     position: absolute;
-    margin: 139px 10px 10px 200px;
+    margin: 40% 10px 10px 67%;
     width: 0px;
     animation-name: telegram;
     animation-duration: 5s;
     animation-iteration-count: infinite;
     animation-fill-mode: forwards;
-    /* animation-delay: 7s; */
   }
   @keyframes telegram {
     0% {
