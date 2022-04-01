@@ -22,37 +22,41 @@
   position: relative;
 }
 .ok {
+  margin: 10px 10px 20px 10px;
+  
+  width: 15%;
   animation-name: ok;
   animation-duration: 5s;
   animation-iteration-count: infinite;
   animation-fill-mode: forwards;
 }
-@keyframes ok {
+/* @keyframes ok {
   0% {
     width: 0%;
   }
   100% {
     width: 15%;
   }
-}
+} */
 .tiktok {
+  width: 10%;
   position: absolute;
-  margin: 150px 10px 10px -22px;
-  width: 0px;
+  margin: 267px 10px 10px 70px;
+  /* width: 0px;
   animation-name: tiktok;
   animation-duration: 5s;
   animation-iteration-count: infinite;
   animation-fill-mode: forwards;
-  animation-delay: 3s;
+  animation-delay: 3s; */
 }
-@keyframes tiktok {
+/* @keyframes tiktok {
   0% {
     width: 0%;
   }
   100% {
     width: 15%;
   }
-}
+} */
 .youtube {
   position: absolute;
   margin: 38px 10px 10px 215px;
