@@ -85,38 +85,40 @@ h1 {
     }
   }
   .pales8 {
-    margin: 218px 0px 0px 209px;
+    margin: 150px 0px 0px 230px;
     animation-name: move8;
   }
   @keyframes move8 {
     100% {
-      margin-top: 100px;
+      margin-top: 50px;
     }
   }
   .pales9 {
-    margin: 218px 0px 0px 209px;
+    margin: 218px 0px 0px 15px;
     animation-name: move9;
   }
   @keyframes move9 {
     100% {
-      margin-top: 100px;
+      margin-top: 144px;
     }
   }
   .pales10 {
-    margin: 218px 0px 0px 209px;
+    margin: 127px 0px 0px 16px;
     animation-name: move10;
+    animation-duration: 5s;
   }
   @keyframes move10 {
     100% {
-      margin-top: 100px;
+      transform: rotate(2000deg);
     }
   }
   .pales11 {
-    margin: 218px 0px 0px 209px;
+    margin: 209px 0px 0px 42px;
     animation-name: move11;
+    width: 0%;
   }
   @keyframes move11 {
     100% {
-      margin-top: 100px;
+     width: 100%;
     }
   }
