@@ -39,3 +39,84 @@ h1 {
     margin-left: 90px;
   }
 }
+.pales3 {
+    margin: 218px 0px 0px 209px;
+    animation-name: move3;
+  }
+  @keyframes move3 {
+    100% {
+      margin-top: 100px;
+    }
+  }
+  .pales4 {
+    margin: 218px 0px 0px 84px;
+    animation-name: move4;
+  }
+  @keyframes move4 {
+    100% {
+      margin-top: 150px;
+    }
+  }
+  .pales5 {
+    margin: 218px 0px 0px 180px;
+    animation-name: move5;
+  }
+  @keyframes move5 {
+    100% {
+      margin-top: 100px;
+    }
+  }
+  .pales6 {
+    margin: 400px 0px 0px 24px;
+    animation-name: move6;
+  }
+  @keyframes move6 {
+    100% {
+      margin-top: 315px;
+    }
+  }
+  .pales7 {
+    margin: 507px 0px 0px 120px;
+    animation-name: move7;
+  }
+  @keyframes move7 {
+    100% {
+      margin-top: 460px;
+    }
+  }
+  .pales8 {
+    margin: 218px 0px 0px 209px;
+    animation-name: move8;
+  }
+  @keyframes move8 {
+    100% {
+      margin-top: 100px;
+    }
+  }
+  .pales9 {
+    margin: 218px 0px 0px 209px;
+    animation-name: move9;
+  }
+  @keyframes move9 {
+    100% {
+      margin-top: 100px;
+    }
+  }
+  .pales10 {
+    margin: 218px 0px 0px 209px;
+    animation-name: move10;
+  }
+  @keyframes move10 {
+    100% {
+      margin-top: 100px;
+    }
+  }
+  .pales11 {
+    margin: 218px 0px 0px 209px;
+    animation-name: move11;
+  }
+  @keyframes move11 {
+    100% {
+      margin-top: 100px;
+    }
+  }
