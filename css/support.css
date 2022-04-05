@@ -4,3 +4,10 @@
     text-align: center;
     color: #4a11f8;
   }
+  .red {
+    color: red;
+  }
+  h1 {
+    font-size: 23px;
+    margin: 27;
+  }
