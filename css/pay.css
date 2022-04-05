@@ -3,10 +3,6 @@
   margin: 10px auto;
   text-align: center;
 }
-/* .wrapper {
-    max-width: 80%;
-    margin: 0 auto;
-  } */
   .install-h1 {
   font-size: 20px;
   font-weight: 800;
@@ -45,5 +41,14 @@
   @keyframes move2 {
     100% {
       margin-top: 300px;
+    }
+  }
+
+  @media (max-width: 414px) {
+    h1 {
+        font-size: 22px;
+        font-weight: 800;
+        line-height: 0.5;
+        text-align: center;
     }
   }
