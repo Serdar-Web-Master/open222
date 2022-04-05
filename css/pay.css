@@ -1,6 +1,49 @@
 .wrapper {
-    max-width: 80%;
-    background-color: aqua;
-    margin: 10px auto;
-    text-align: center;
+  max-width: 80%;
+  margin: 10px auto;
+  text-align: center;
 }
+/* .wrapper {
+    max-width: 80%;
+    margin: 0 auto;
+  } */
+  .install-h1 {
+  font-size: 20px;
+  font-weight: 800;
+  line-height: .8;
+  text-align: center;
+  }
+  .box {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    margin: 10px 10px 10px 10px;
+  }
+  .img-block {
+    margin: 10px 20px 10px 20px;
+    position: relative;
+  }
+  .pales {
+    position: absolute;
+    animation-duration: 2s;
+    animation-iteration-count: infinite;
+    animation-fill-mode: forwards;
+  }
+  .pales1 {
+    margin: 440px 0px 0px 82px;
+    animation-name: move1;
+  }
+  @keyframes move1 {
+    100% {
+      margin-top: 360px;
+    }
+  }
+  .pales2 {
+    margin: 400px 0px 0px 134px;
+    animation-name: move2;
+  }
+  @keyframes move2 {
+    100% {
+      margin-top: 300px;
+    }
+  }
