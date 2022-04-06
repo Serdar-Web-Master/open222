@@ -178,7 +178,7 @@
   .user-sale input::placeholder {
     color: blue;
     font-size: 18px;
-    padding-left: 10px;
+    padding-left: 6px;
   }
   .button__sale {
     padding: 10px 30px 10px 30px;
