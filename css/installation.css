@@ -15,7 +15,8 @@ text-align: center;
   margin: 10px 10px 10px 10px;
 }
 .img-block {
-  margin: 10px 20px 10px 20px;
+  border: 2px solid black;
+  margin: 10px 20px 25px 20px;
   position: relative;
 }
 .pales {
