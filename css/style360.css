@@ -177,7 +177,7 @@
   }
   .user-sale input::placeholder {
     color: blue;
-    font-size: 22px;
+    font-size: 18px;
     padding-left: 10px;
   }
   .button__sale {
@@ -223,7 +223,6 @@
   .sub-main-img {
     width: 100%;
     height: 70px;
-
     display: flex;
     align-items: center;
     justify-content: center;
