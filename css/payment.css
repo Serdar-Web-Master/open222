@@ -1,0 +1,14 @@
+.wrapper {
+    width: 85%;
+    text-align: center;
+}
+h1 {
+    color: red;
+    font-size: 35px;
+    font-weight: 800;
+    font-style: italic;
+}
+h2 {
+    font-size: 26px;
+    color: blue;
+}
